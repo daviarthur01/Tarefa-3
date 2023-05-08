@@ -1,0 +1,67 @@
+#container {
+    
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.input {
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: transparent;
+    box-shadow: 3px 3px 3px 3px rgba(22, 22, 22, 0.377);
+}
+
+.input:hover {
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: transparent;
+    box-shadow: 4px 4px 4px 4px rgba(22, 22, 22, 0.377);
+}
+
+
+#button{
+    
+    display: block;
+    margin: 32px 25px 25px 152px;
+    border-radius: 5px;
+    background: linear-gradient(270deg, red, orange);
+    box-shadow: 3px 3px 3px 3px rgba(22, 22, 22, 0.377);
+    border: orange;
+}
+
+#button:hover{
+    
+    display: block;
+    margin: 32px 25px 25px 152px;
+    border-radius: 5px;
+    background: linear-gradient(270deg, rgb(206, 2, 2), rgb(218, 142, 2));
+    box-shadow: 5px 5px 5px 5px rgba(22, 22, 22, 0.377);
+}
+
+#h1{
+    text-align: center;
+    color: white;
+    
+}
+
+#h1:hover{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.493);
+    
+}
+
+body{
+    background: linear-gradient(270deg, red, orange);
+}
